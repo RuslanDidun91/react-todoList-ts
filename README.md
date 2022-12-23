@@ -3,7 +3,7 @@
 
 # React ToDo list
 
-### Check [this 👈](https://ruslandidun.github.io/new-todoListProject/)out
+### Check this cool app via [link 👈](https://ruslandidun.github.io/new-todoListProject/)
 <div id="description" align="center"> 
 
 ##### Created and designed by Ruslan Didun
@@ -14,10 +14,8 @@
 
 
 
-
-
 ## :pencil: Description
-Simple organiser with cool features. You are able to create new todolist with tasks. remove and rename, change status etc. Built with react/redux(flow). Used react hooks, reducers some extra libraries (formik, ant design) 
+Simple organiser with cool features. You are able to create new todolist with tasks. remove and rename, change status etc. Built with react/redux(flow). Used react hooks, reducers some extra libraries (formik, ant design). This project taken from my previous github account, so you will not find commits story.
 
 <div id="header" align="center">
   <img src="https://i.imgur.com/H6mo9GR.png" width="800" height="500">
@@ -30,9 +28,9 @@ Simple organiser with cool features. You are able to create new todolist with ta
 
 - [x] Storybook, unit tests, improving performance(unnecessary re-render).
 
-- [x] Go deeper with flux/redux flow. Add libraries (formik, ant-design). 
+- [x] Go deeper with flux/redux flow. Add libraries (formik, ant-design).
 
-- [x] Build API queries to the server. Create login/logout logic. useMemo. 
+- [x] Build API queries to the server. Create login/logout logic. useMemo.
 
 - [ ] Add drag&drop logic, improve navbar menu, add some other feature.
 

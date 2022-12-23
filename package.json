@@ -1,5 +1,6 @@
 {
   "name": "react-todolist",
+  "homepage": "https://ruslandidun91.github.io/react-todoList-ts/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -27,11 +28,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "storybook": "start-storybook -p 6006 -s public",
-    "build-storybook": "build-storybook -s public",
-    "jest:integration": "jest -c integration/jest.config.js",
-    "test:integration": "start-server-and-test storybook http-get://localhost:6006 jest:integration"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -68,6 +66,7 @@
     "@storybook/node-logger": "^6.2.9",
     "@storybook/preset-create-react-app": "^3.1.7",
     "@storybook/react": "^6.2.9",
+    "gh-pages": "^3.2.3",
     "jest-image-snapshot": "^4.5.0",
     "jest-puppeteer": "^5.0.3",
     "puppeteer": "^9.1.1",

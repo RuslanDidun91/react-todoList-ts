@@ -18,7 +18,7 @@
 Simple organiser with cool features. You are able to create new todolist with tasks. remove and rename, change status etc. Built with react/redux(flow). Used react hooks, reducers some extra libraries (formik, ant design). This project taken from my previous github account, so you will not find commits story.
 
 <div id="header" align="center">
-  <img src="https://i.imgur.com/H6mo9GR.png" width="800" height="500">
+  <img src="https://i.imgur.com/H6mo9GR.png" width="800" height="450">
 </div>
 
 
